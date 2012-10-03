@@ -69,6 +69,7 @@ Tutorials & Books
   * [Try GitHub](http://try.github.com)
   * [Pro Git](http://git-scm.com/book) (_free online_)
   * [Common Git Practices](http://tutorials.jumpstartlab.com/topics/environment/git_strategy.html)
+  * [Git Immersion](http://gitimmersion.com/)
 
 Workflow Opinions
 -----------------
