@@ -21,11 +21,12 @@ There are lots of resources for learning Ruby. The following are just some that 
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
   * [Ruby from Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+  * [Ruby in 100 Minute](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+  * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
   * [Programming Ruby](http://ruby-doc.org/docs/ProgrammingRuby/html/intro.html)
     * This is a free online resource, though it is written for 1.8 it is becoming more outdated
     * The updated reference is available for purchase as [The Pickax Book](http://pragprog.com/book/ruby3/programming-ruby-1-9)
-  * [Ruby in 100 Minute](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
-  * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+    * This is a really good reference book, but is a bit dense and may not be the best introduction point
   * [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
 
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
