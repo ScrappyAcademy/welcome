@@ -23,6 +23,7 @@ There are lots of resources for learning Ruby. The following are just some that 
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
   * [Ruby from Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+  * [Ruby Koans] TODO
   * [Ruby in 100 Minute](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
   * [Programming Ruby](http://ruby-doc.org/docs/ProgrammingRuby/html/intro.html)
@@ -30,18 +31,27 @@ There are lots of resources for learning Ruby. The following are just some that 
     * The updated reference is available for purchase as [The Pickax Book](http://pragprog.com/book/ruby3/programming-ruby-1-9)
     * This is a really good reference book, but is a bit dense and may not be the best introduction point
   * [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
+  * [Ruby Quiz](http://www.rubyquiz.com/)
 
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
 
+TODO: note about Ruby Koans as yu go through other things
+
 
 Misc Tutorials
----------------
+--------------
 
   * [RVM](http://tutorials.jumpstartlab.com/topics/environment/rvm.html)
   * [Bundler](http://tutorials.jumpstartlab.com/topics/environment/bundler.html)
   * Rspec
     * [RSpec and BDD](http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_and_bdd.html)
     * [RSpec Practices](http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_practices.html)
+
+
+Podcasts
+--------
+
+TODO
 
 
 Learning Rails
