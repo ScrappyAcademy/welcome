@@ -23,7 +23,8 @@ There are lots of resources for learning Ruby. The following are just some that 
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
   * [Ruby from Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
-  * [Ruby Koans] TODO
+  * [Ruby Koans](http://rubykoans.com/) [on github](https://github.com/edgecase/ruby_koans) _we
+    highly recommend using this as a learning tool_
   * [Ruby in 100 Minute](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
   * [Programming Ruby](http://ruby-doc.org/docs/ProgrammingRuby/html/intro.html)
