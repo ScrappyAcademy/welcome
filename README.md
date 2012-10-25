@@ -3,9 +3,11 @@ Overview
 
 Welcome to the [Scrappy Academy](http://scrappyacademy.com/)
 
-TODO: Who we are
+We're a Ruby (and Rails) self study group that meets weekly. Our goal is to expand our knowledge of the Ruby programming
+language; as well as dive into the Rails web framework now and then.
 
-If you are interested in joining us we please reach out. Our contact information is below and we communicate heavily via the Google Group.
+If you are interested in joining us we please reach out. Our contact information is below and we communicate heavily
+via the Google Group.
 
 Join Us
 -------
