@@ -21,6 +21,20 @@ Join Us
 Learning Ruby
 =============
 
+
+### TODO
+
+  [ ] Add books
+  
+  [ ] Add learning order (including Eloquent and POODR)
+  
+  [ ] Add code school links (Try Ruby and Git both free)
+  
+  [ ] Checklist of skills (find other git based programmer checklist)
+  
+  [ ] Add Tapas link
+
+
 There are lots of resources for learning Ruby. The following are just some that we have found useful and recommend to new members.
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
