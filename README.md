@@ -56,6 +56,35 @@ In general, prag prog (http://pragprog.com) is a great resource (if you can spar
 
 TODO: note about Ruby Koans as yu go through other things
 
+### Note to New Members
+
+By now I'm sure you're thinking:
+
+> This is great! It sure seems like a lot of information. I'm so excited to dive in. In fact, I'm going to get started right now.
+
+Then after diving in a bit you may start thinking:
+
+> Gee. This really is so much to learn. :cold_sweat:
+
+> :confused: I keep forgetting things.
+
+> :sob: I don't know anything. :sob:
+
+> Maybe this isn't for me...
+
+Please don't get discouraged. Learning to program is a long process. No one gets it overnight, or even in a week or month.
+You start picking more things up with practice. Overtime you get better. You re-learn lots of stuff (I *always* have the
+ruby docs open and re-read them daily); know that this is all part of the process.
+
+_**If you ever feel this way**_, know that we all do. Even those of us who have been doing this a long time. If you find
+yourself in this situation, especially, if it is after 10 PM. Go do something else (like sleep :sleeping:). Pick things
+up fresh tomorrow, or even in a few days. You'll feel better.
+
+Just keep coding :persevere: (<-- that's the persevere face, yeah...we don't get it either) and thing will progress.
+
+\- The Scrappy Team :shipit:
+
+
 
 Misc Tutorials
 --------------
@@ -179,4 +208,3 @@ This is the base foundation for shipping working software:
 >  * _If there is something more, group feedback will be provided to
       help guide you; or we can submit it for a group pair session the
       following week_
-
