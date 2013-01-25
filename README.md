@@ -72,13 +72,23 @@ Then after diving in a bit you may start thinking:
 
 > Maybe this isn't for me...
 
-Please don't get discouraged. Learning to program is a long process. No one gets it overnight, or even in a week or month.
-You start picking more things up with practice. Overtime you get better. You re-learn lots of stuff (I *always* have the
-ruby docs open and re-read them daily); know that this is all part of the process.
+First, and most importantly **take a deep breathe**. Please don't get discouraged. Learning to program is a long process.
+No one gets it overnight, or even in a week or month. You start picking more things up with practice. Overtime you get
+better. You re-learn lots of stuff (I *always* have the ruby docs open and re-read them daily); know that this is all
+part of the process.
 
 _**If you ever feel this way**_, know that we all do. Even those of us who have been doing this a long time. If you find
 yourself in this situation, especially, if it is after 10 PM. Go do something else (like sleep :sleeping:). Pick things
 up fresh tomorrow, or even in a few days. You'll feel better.
+
+When you do come back, focus on one thing. Yep, just one thing. If you are still getting to understand some of the basic
+syntax, consider using Ruby (with `irb` or `pry`) as your calculator. If you are learning blocks, try to use blocks for
+everything. After a week or two (yeah it's perfectly alright to take your time) pick a new topic. Learn one topic at a
+time until you feel comfortable, then move forward. This is how the rest of us learn as well :wink:.
+
+As you learn new topics, try applying the new concepts / syntaxes to your previous programs. See if you can make the code
+shorter. Can you make it more expressive? Does making it more expressive make it long? Does it make it more joyful to
+read?
 
 Just keep coding :persevere: (<-- that's the persevere face, yeah...we don't get it either) and thing will progress.
 
