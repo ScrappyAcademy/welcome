@@ -1,7 +1,7 @@
 Overview
 ========
 
-Welcome to the [Scrappy Academy](http://scrappyacademy.com/)
+Welcome to the [Scrappy Academy](http://scrappyacademy.com/)!
 
 We're a Ruby (and Rails) self study group that meets weekly. Our goal is to expand our knowledge of the Ruby programming
 language; as well as dive into the Rails web framework now and then.
@@ -32,8 +32,7 @@ Learning Ruby
   
   [ ] Checklist of skills (find other git based programmer checklist)
   
-  [ ] Add Tapas link
-
+  [x] Add Tapas link
 
 There are lots of resources for learning Ruby. The following are just some that we have found useful and recommend to new members.
 
@@ -51,10 +50,13 @@ There are lots of resources for learning Ruby. The following are just some that 
     * This is a really good reference book, but is a bit dense and may not be the best introduction point
   * [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
   * [Ruby Quiz](http://www.rubyquiz.com/)
+  * [Ruby Tapas](http://devblog.avdi.org/rubytapas/) short screencasts on Ruby idioms, techniques, gotchas, and guidelines.  Free every Monday!
+  * [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
+  * [Codecademy track on Ruby](http://www.codecademy.com/tracks/ruby)
 
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
 
-TODO: note about Ruby Koans as yu go through other things
+TODO: note about Ruby Koans as you go through other things
 
 ### Note to New Members
 
@@ -115,7 +117,7 @@ TODO
 Learning Rails
 ==============
 
-A great Rails resource is http://railscasts.com/. I use it all the time.
+A great Rails resource is http://railscasts.com/. I use it all the time.  Check out the [Getting Started episode](http://railscasts.com/episodes/310-getting-started-with-rails) first.
 
 TODO
 
@@ -137,6 +139,7 @@ Tutorials & Books
 -----------------
 
   * [Try GitHub](http://try.github.com)
+  * [Try Git from Code School](http://www.codeschool.com/courses/try-git)
   * [Pro Git](http://git-scm.com/book) (_free online_)
   * [Common Git Practices](http://tutorials.jumpstartlab.com/topics/environment/git_strategy.html)
   * [Git Immersion](http://gitimmersion.com/)
