@@ -21,20 +21,20 @@ Join Us
 Learning Ruby
 =============
 
+Congrats! You've decided to learn Ruby. Yay! We think, like us, you'll fall in love with it and never
+want to give it up. The Ruby community has so many great resources for learning that sometimes it can
+be very overwhelming. Hopefully, this section can help you get started.
 
-### TODO
+If you are new to Ruby, our suggested order for learning resources is:
 
-  [ ] Add books
-  
-  [ ] Add learning order (including Eloquent and POODR)
-  
-  [ ] Add code school links (Try Ruby and Git both free)
-  
-  [ ] Checklist of skills (find other git based programmer checklist)
-  
-  [x] Add Tapas link
+  0. [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/): Free online in HTML
+  0. [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
+  0. [Ruby Monk](http://rubymonk.com/): Free interactive online short courses **TODO ADD ORDER OF COURSES**
+  0. [Ruby Koans](http://rubykoans.com/) [on github](https://github.com/neo/ruby_koans) _we
+     highly recommend using this as a learning tool_
+  0. [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104/) by Russ Olsen
 
-There are lots of resources for learning Ruby. The following are just some that we have found useful and recommend to new members.
+The following are just some that we have found useful and recommend to new members.
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
   * [Ruby from Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
@@ -53,10 +53,25 @@ There are lots of resources for learning Ruby. The following are just some that 
   * [Ruby Tapas](http://devblog.avdi.org/rubytapas/) short screencasts on Ruby idioms, techniques, gotchas, and guidelines.  Free every Monday!
   * [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
   * [Codecademy track on Ruby](http://www.codecademy.com/tracks/ruby)
+  * [How Ruby method dispatch works](http://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
+
+### TODO
+
+  [ ] Add books
+  
+  [ ] Add learning order (including Eloquent and POODR)
+  
+  [ ] Add code school links (Try Ruby and Git both free)
+  
+  [ ] Checklist of skills (find other git based programmer checklist)
+  
+  [x] Add Tapas link
+  
+  [ ] Note about Ruby Koans as you go through other things
+
 
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
 
-TODO: note about Ruby Koans as you go through other things
 
 ### Note to New Members
 
