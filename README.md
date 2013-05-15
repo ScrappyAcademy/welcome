@@ -27,8 +27,8 @@ be very overwhelming. Hopefully, this section can help you get started.
 
 If you are new to Ruby, our suggested order for learning resources is:
 
-  0. [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/): Free online in HTML
   0. [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
+  0. [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/): Free online in HTML
   0. [Ruby Monk](http://rubymonk.com/): Free interactive online short courses **TODO ADD ORDER OF COURSES**
   0. [Ruby Koans](http://rubykoans.com/) [on github](https://github.com/neo/ruby_koans) _we
      highly recommend using this as a learning tool_
