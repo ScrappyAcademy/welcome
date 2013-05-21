@@ -54,6 +54,7 @@ The following are just some that we have found useful and recommend to new membe
   * [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
   * [Codecademy track on Ruby](http://www.codecademy.com/tracks/ruby)
   * [How Ruby method dispatch works](http://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
+  * [Ruby Style Guid](https://github.com/styleguide/ruby)
 
 ### TODO
 
