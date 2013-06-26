@@ -28,20 +28,18 @@ be very overwhelming. Hopefully, this section can help you get started.
 If you are new to Ruby, our suggested order for learning resources is:
 
   0. [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
-  0. [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/): Free online in HTML
-  0. [Ruby Monk](http://rubymonk.com/): Free interactive online short courses **TODO ADD ORDER OF COURSES**
+  0. [Ruby Monk](http://rubymonk.com/): Free interactive online short courses
   0. [Ruby Koans](http://rubykoans.com/) [on github](https://github.com/neo/ruby_koans) _we
-     highly recommend using this as a learning tool_
+     highly recommend using this as a learning tool which you can work through as you learn the language via other resources_
   0. [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104/) by Russ Olsen
 
-The following are just some that we have found useful and recommend to new members.
+The following are some additional resources we have found useful and recommend to new members.
 
   * [Quickstart](http://www.ruby-lang.org/en/documentation/quickstart/)
   * [Ruby from Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+  * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/): Free online in HTML
   * [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104/) by Russ Olsen
   * [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/) by Sandi Metz
-  * [Ruby Koans](http://rubykoans.com/) [on github](https://github.com/neo/ruby_koans) _we
-    highly recommend using this as a learning tool_
   * [Ruby in 100 Minute](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
   * [Programming Ruby](http://ruby-doc.org/docs/ProgrammingRuby/html/intro.html)
@@ -51,7 +49,6 @@ The following are just some that we have found useful and recommend to new membe
   * [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
   * [Ruby Quiz](http://www.rubyquiz.com/)
   * [Ruby Tapas](http://devblog.avdi.org/rubytapas/) short screencasts on Ruby idioms, techniques, gotchas, and guidelines.  Free every Monday!
-  * [Try Ruby](http://www.codeschool.com/courses/try-ruby): Free codeschool course
   * [Codecademy track on Ruby](http://www.codecademy.com/tracks/ruby)
   * [How Ruby method dispatch works](http://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
   * [Ruby Style Guid](https://github.com/styleguide/ruby)
@@ -59,18 +56,9 @@ The following are just some that we have found useful and recommend to new membe
 ### TODO
 
   [ ] Add books
-  
-  [ ] Add learning order (including Eloquent and POODR)
-  
-  [ ] Add code school links (Try Ruby and Git both free)
-  
+
   [ ] Checklist of skills (find other git based programmer checklist)
   
-  [x] Add Tapas link
-  
-  [ ] Note about Ruby Koans as you go through other things
-
-
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
 
 
