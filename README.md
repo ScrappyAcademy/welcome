@@ -58,7 +58,7 @@ The following are some additional resources we have found useful and recommend t
   [ ] Add books
 
   [ ] Checklist of skills (find other git based programmer checklist)
-  
+
 In general, prag prog (http://pragprog.com) is a great resource (if you can spare the $$) for learning. If you are unsure of a book just ask. I'm sure someone has read (or will be reading it).
 
 
@@ -115,13 +115,16 @@ Misc Tutorials
 Podcasts
 --------
 
-TODO
+  * [Ruby Rogues](http://rubyrogues.com)
+  * [Ruby 5](http://ruby5.envylabs.com)
+  * [Ruby Freelancers](http://www.freelancersshow.com)
 
 
 Learning Rails
 ==============
 
-A great Rails resource is http://railscasts.com/. I use it all the time.  Check out the [Getting Started episode](http://railscasts.com/episodes/310-getting-started-with-rails) first.
+A great Rails resource is http://railscasts.com/. Check out the
+[Getting Started episode](http://railscasts.com/episodes/310-getting-started-with-rails) first.
 
 TODO
 
