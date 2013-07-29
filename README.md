@@ -51,7 +51,7 @@ The following are some additional resources we have found useful and recommend t
   * [Ruby Tapas](http://devblog.avdi.org/rubytapas/) short screencasts on Ruby idioms, techniques, gotchas, and guidelines.  Free every Monday!
   * [Codecademy track on Ruby](http://www.codecademy.com/tracks/ruby)
   * [How Ruby method dispatch works](http://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
-  * [Ruby Style Guid](https://github.com/styleguide/ruby)
+  * [Ruby Style Guide](https://github.com/styleguide/ruby)
 
 ### TODO
 
