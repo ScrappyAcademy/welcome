@@ -213,6 +213,8 @@ This is the base foundation for shipping working software:
   6. Wait for Travis to report all tests pass
   7. Deploy immediately
 
+If you run into conflicts while merging, try `git mergetool` ([discussion](http://stackoverflow.com/questions/161813/how-do-i-fix-merge-conflicts-in-git)). If you've setup a graphical diff tool, you'll be able to inspect conflicts and resolve them easily.
+
 >_\*\* "Pull requests are dicussions, that improve
 >code quality" - Zach Holman [How Github Works](http://zachholman.com/posts/how-github-works/)_
 
