@@ -78,7 +78,7 @@ Then after diving in a bit you may start thinking:
 
 > Maybe this isn't for me...
 
-First, and most importantly **take a deep breathe**. Please don't get discouraged. Learning to program is a long process.
+First, and most importantly **take a deep breath**. Please don't get discouraged. Learning to program is a long process.
 No one gets it overnight, or even in a week or month. You start picking more things up with practice. Overtime you get
 better. You re-learn lots of stuff (I *always* have the ruby docs open and re-read them daily); know that this is all
 part of the process.
@@ -96,7 +96,7 @@ As you learn new topics, try applying the new concepts / syntaxes to your previo
 shorter. Can you make it more expressive? Does making it more expressive make it long? Does it make it more joyful to
 read?
 
-Just keep coding :persevere: (<-- that's the persevere face, yeah...we don't get it either) and thing will progress.
+Just keep coding :persevere: (that's the persevere face, yeah...we don't get it either) and things will progress.
 
 \- The Scrappy Team :shipit:
 
