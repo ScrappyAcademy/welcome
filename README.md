@@ -17,7 +17,7 @@ Join Us
   * Twitter: [Sir Scrappy](https://twitter.com/scrappyacademy)
   * Campfire: https://scrappyacademy.campfirenow.com/login
 
-**Location:** [1776](http://1776dc.com)
+**Location:** [1776](http://1776dc.com)  
 **Time:** Monday, 7:00pm - 8:30pm
 
 We meet almost every Monday. Please check the Google groups for details.
