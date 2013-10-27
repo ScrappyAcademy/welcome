@@ -130,7 +130,8 @@ Learning Rails
 A great Rails resource is http://railscasts.com/. Check out the
 [Getting Started episode](http://railscasts.com/episodes/310-getting-started-with-rails) first.
 
-TODO
+* [Using Rake to Setup a Database](http://www.jasonwieringa.com/rake_rails_and_databases)
+TODO - Add more links
 
 Misc Tutorials
 --------------
